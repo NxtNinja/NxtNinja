@@ -62,8 +62,25 @@
 ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NxtNinja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💹 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarsen2023&custom_title=Sagar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
-### 🔝 My Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NxtNinja&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+
+
+
+## 🌐 Contact Me:
+<a href="mailto:sagarsen.dev@gmail.com" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=sagarsen.dev@gmail.com&size=square" alt="Sagar Sen" style="margin: 10px;">
+</a>
+<a href="https://discord.gg/sagarsen.dev" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fsagarsen.dev&subtitle=Sagar+Sen&size=square" alt="Sagar Sen" style="margin: 10px;">
+</a>
+<a href="https://www.linkedin.com/in/sagar-sen1067/" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsagar-sen1067%2F&subtitle=@Sagar+Sen&size=square" alt="Sagar Sen" style="margin: 10px;">
+</a>
