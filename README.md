@@ -63,7 +63,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=NxtNinja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💹 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarsen2023&custom_title=Sagar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NxtNinja&custom_title=Priyangsu's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 
 
@@ -75,12 +75,12 @@
 
 
 ## 🌐 Contact Me:
-<a href="mailto:sagarsen.dev@gmail.com" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=sagarsen.dev@gmail.com&size=square" alt="Sagar Sen" style="margin: 10px;">
+<a href="mailto:priyangsubanik2003@gmail.com" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=priyangsubanik2003@gmail.com&size=square" alt="Priyangsu Banik" style="margin: 10px;">
 </a>
-<a href="https://discord.gg/sagarsen.dev" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fsagarsen.dev&subtitle=Sagar+Sen&size=square" alt="Sagar Sen" style="margin: 10px;">
+<a href="https://discord.gg/priyangsu_dev" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fpriyangsu_dev&subtitle=Priyangsu+Banik&size=square" alt="Priyangsu Banik" style="margin: 10px;">
 </a>
-<a href="https://www.linkedin.com/in/sagar-sen1067/" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsagar-sen1067%2F&subtitle=@Sagar+Sen&size=square" alt="Sagar Sen" style="margin: 10px;">
+<a href="https://www.linkedin.com/in/priyangsu-banik-757065279" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/priyangsu-banik-757065279/&subtitle=@Priyangsu+Banik&size=square" alt="Priyangsu Banik" style="margin: 10px;">
 </a>
